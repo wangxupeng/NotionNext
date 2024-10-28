@@ -91,9 +91,9 @@ const CONFIG = {
       color_2: '#8f55ba'
     },
     {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
-      color_1: '#f29e39',
+      title_1: 'PyTorch',  // 替换 illustrator 为 PyTorch
+      img_1: '/images/heo/2023pytorch_placeholder.webp', // PyTorch 的图像路径
+      color_1: '#ee4c2c',  // PyTorch 的颜色
       title_2: 'CSS3',
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
       color_2: '#2c51db'
