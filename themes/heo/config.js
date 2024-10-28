@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与生活日常',
-  HEO_HERO_TITLE_3: 'akjourneys.cn',
+  HEO_HERO_TITLE_3: 'www.akjourneys.cn',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
